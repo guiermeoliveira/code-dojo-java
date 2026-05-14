@@ -1,8 +1,8 @@
 # Code Dojo — Sistema de Turma
 
 ## Integrantes
-- Matheus vinicius sousa chaves 
+- Matheus vinicius Sousa Chaves 
 - Gustavo Oliveira Pires de Moura
-- guilherme oliveira
+- Guilherme Henrique de Oliveira Souza
 - Igor Barreto de Lima
-- augusto leo
+- Augusto Leo
